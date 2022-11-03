@@ -1,6 +1,6 @@
 # WEB CRUD MVC - .NET6 - SQL SERVER
 
-Project created to studt .NET6<br>
+Project created to study .NET6<br>
 
 ## Install-Package
 
